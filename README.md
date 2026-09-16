@@ -1,0 +1,1 @@
+# dmit-bare-metal-check
